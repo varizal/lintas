@@ -26,7 +26,7 @@ if(x=="2"){xxx="how-sega-shot-themselves-in-foot-with.html"}
 if(x=="3"){xxx="nostalgia-in-games.html"}
 if(x=="4"){xxx="the-hq-trivia-phenomenon.html"}
 if(x=="5"){xxx="top-10-gaming-peripheral-to-improve.html.html"}
-if(x=="6"){xxx="game-reviews.htmll"}a_to_ve[i].href="https://www.lintas.web.id/2018/08/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="6"){xxx="game-reviews.html"}a_to_ve[i].href="https://www.lintas.web.id/2018/08/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
